@@ -1,6 +1,8 @@
 # YoryoChecker
 This is an application to check your server capacity.
 
+これはあなたのパソコンの中にある容量の大きいフォルダをリストアップするアプリです。
+
 仕様
 1. アプリ上で調べたい階層のフォルダを指定します
 
@@ -14,6 +16,8 @@ pyperclipとwxPythonをインストールする必要があります。
 wxPythonのバージョンは4.1.1 で挙動することを確認しました。
 
 ############################################
+
+This is an application that lists large folders on your computer.
 
 Specifications
 1. specify the folders in the hierarchy to be checked on the application
