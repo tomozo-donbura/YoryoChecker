@@ -10,7 +10,8 @@ This is an application to check your server capacity.
 
 4. 3の結果をテキストにコピーできるようになってます。
 
-wxPythonはversion 4.1.1 にて挙動を確認しました。
+pyperclipとwxPythonをインストールする必要があります。
+wxPythonのバージョンは4.1.1 で挙動することを確認しました。
 
 ############################################
 
@@ -23,4 +24,5 @@ Specifications
 
 4. the result of 3 can be copied to text.
 
-wxPython behavior was confirmed with version 4.1.1.
+pyperclip and wxPython must be installed.
+We have confirmed that wxPython behaves with version 4.1.1.
